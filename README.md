@@ -88,12 +88,6 @@ The purpose of this analysis is to evaluate the performance of the top 100 batsm
 
 ---
 
-# **Top 100 Batsmen in Test Cricket - 2023**
-
-This document provides an overview and detailed analysis of the **Top 100 Batsmen in Test Cricket**, focusing on key performance metrics such as runs scored, batting average, strike rate, and consistency indicators. The dataset covers players from various international cricket teams, highlighting individual performance and contributions to the sport.
-
----
-
 ## **1. Dataset Overview**
 
 The dataset contains information on the top 100 batsmen in Test cricket as of 2024. Each record includes performance metrics and player details such as:
