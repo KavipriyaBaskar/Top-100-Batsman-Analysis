@@ -88,7 +88,7 @@ The purpose of this analysis is to evaluate the performance of the top 100 batsm
 
 ---
 
-## **1. Dataset Overview**
+# Dataset Overview
 
 The dataset contains information on the top 100 batsmen in Test cricket as of 2024. Each record includes performance metrics and player details such as:
 
