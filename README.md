@@ -253,6 +253,67 @@ This dashboard classifies player performance based on score categories, providin
 A focused breakdown of runs scored in various conditions, including home vs. away matches, powerplay vs. death overs, and partnerships.  
 ![Run Analysis](Resources/Run%20Analysis.png)
 
+# Business Insights for Top 100 Batsmen
+
+The dataset contains performance statistics of the top 100 batsmen in Test cricket. Key metrics include rankings, runs scored, averages, strike rates, centuries, and team representation. Below are the key insights derived from the data:
+
+---
+
+## 1. Top-Ranked Batsmen
+- **Marnus Labuschagne (Australia)** holds the **#1 spot** with a rating of **925**, reflecting consistent performance in Test cricket.
+- **Steven Smith (Australia)** and **Babar Azam (Pakistan)** follow closely with ratings of **883** and **882**, respectively.
+
+---
+
+## 2. Team Representation
+- **Australia** has a strong presence in the top rankings, with multiple players in the top 5.
+- Other well-represented teams include **Pakistan**, **New Zealand**, and **India**.
+
+---
+
+## 3. Consistency and Longevity
+- **Steven Smith** has played **162 innings**, amassing **8647 runs** with an impressive **average of 60.89**, indicating both longevity and consistency.
+- **Kane Williamson (New Zealand)** has the highest number of **double centuries (5)**, reflecting his ability to score big in crucial matches.
+
+---
+
+## 4. Strike Rate and Aggression
+- **Travis Head (Australia)** has a strike rate of **61.14**, the highest among the top 5, indicating an aggressive style of play.
+- Higher strike rates are often linked to game-changing innings, especially in modern Test cricket.
+
+---
+
+## 5. Century Conversion
+- **Steven Smith** has scored **30 centuries** and **4 double centuries**, showing an exceptional conversion rate from 50s to 100s.
+- **Marnus Labuschagne** also stands out with **10 centuries** in just **56 innings**, reflecting rapid progression.
+
+---
+
+## 6. Boundary Scoring
+- **Steven Smith** has hit **942 fours**, the highest in the dataset, indicating a preference for ground strokes over aerial shots.
+- **Kane Williamson** follows closely with **850 fours**, reflecting his classic batting style.
+
+---
+
+## 7. Power Hitting
+- **Steven Smith** leads in six-hitting with **49 sixes**, indicating his ability to switch gears when required.
+- **Babar Azam** and **Travis Head** show a balanced approach with **22** and **11** sixes, respectively.
+
+---
+
+## 8. Emerging Trends
+- Younger players like **Marnus Labuschagne** and **Travis Head** have shown rapid growth, with impressive averages despite fewer innings.
+- This indicates a shift toward aggressive but consistent batting in modern Test cricket.
+
+---
+
+## 9. Strategic Business Insights
+- **Player Endorsements:** High-ranking and consistent performers like **Steven Smith** and **Marnus Labuschagne** are ideal candidates for brand endorsements.
+- **Fan Engagement:** Players with aggressive playing styles, such as **Travis Head**, often attract younger audiences.
+- **Merchandising Opportunities:** High-profile players with frequent big scores provide marketing opportunities for memorabilia and cricket gear.
+
+---
+
 ## **8. Conclusion**
 
 The **Top 100 Batsmen Dataset** provides valuable insights into how different performance metrics such as batting average, strike rate, and century conversion rate impact a player’s ranking. Continuous analysis of such data can help selectors, coaches, and analysts make informed decisions to optimize team performance and identify future cricketing stars.
