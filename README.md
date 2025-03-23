@@ -195,6 +195,64 @@ The dataset contains information on the top 100 batsmen in Test cricket as of 20
 
 ---
 
+# Dashboards
+
+This section provides a comprehensive overview of various cricket analytics dashboards. Each dashboard focuses on a different aspect of performance analysis.
+
+---
+
+## 1. Overview  
+This dashboard provides a high-level summary of overall performance metrics, including total runs, wickets, and team standings.  
+![Overview](Resources/Overview.png)
+
+---
+
+## 2. Ranking Analysis  
+This dashboard highlights player rankings based on various performance metrics such as batting average, strike rate, and total runs.  
+![Ranking Analysis](Resources/Ranking%20Analysis.png)
+
+---
+
+## 3. Batsman Analysis  
+In-depth analysis of individual batsmen, showcasing metrics like total runs, average, strike rate, and performance consistency.  
+![Batsman Analysis](Resources/Batsman%20Analysis.png)
+
+---
+
+## 4. Score Analysis by Batsman  
+This dashboard focuses on how different batsmen have contributed to the team's overall score, with breakdowns by innings and opposition.  
+![Score Analysis by Batsman](Resources/Score%20Analysis%20by%20Batsman.png)
+
+---
+
+## 5. Team Analysis  
+A holistic view of team performance, including total matches played, wins, losses, and key statistics across multiple tournaments.  
+![Team Analysis](Resources/Team%20Analysis.png)
+
+---
+
+## 6. Score Analysis by Team  
+This dashboard examines how different teams have scored runs across matches, highlighting performance trends and key match results.  
+![Score Analysis by Team](Resources/Score%20Analysis%20by%20Team.png)
+
+---
+
+## 7. Category Analysis by Rating  
+This dashboard categorizes players based on their performance ratings, allowing for easy identification of top performers.  
+![Category Analysis by Rating](Resources/Category%20Analysis%20by%20Rating.png)
+
+---
+
+## 8. Category Analysis by Score  
+This dashboard classifies player performance based on score categories, providing insights into high-scoring players across different matches.  
+![Category Analysis by Score](Resources/Category%20Analysis%20by%20Score.png)
+
+---
+
+## 9. Run Analysis  
+A focused breakdown of runs scored in various conditions, including home vs. away matches, powerplay vs. death overs, and partnerships.  
+![Run Analysis](Resources/Run%20Analysis.png)
+
 ## **8. Conclusion**
 
 The **Top 100 Batsmen Dataset** provides valuable insights into how different performance metrics such as batting average, strike rate, and century conversion rate impact a player’s ranking. Continuous analysis of such data can help selectors, coaches, and analysts make informed decisions to optimize team performance and identify future cricketing stars.
