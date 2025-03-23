@@ -203,8 +203,7 @@ This section provides a comprehensive overview of various cricket analytics dash
 
 ## 1. Overview  
 This dashboard provides a high-level summary of overall performance metrics, including total runs, wickets, and team standings.  
-
-![Overview](Resources/Overview.png)
+![Overview](Resources/Overview%20.png)
 
 ---
 
