@@ -1,4 +1,4 @@
-# **Top 100 Batsmen Analysis - 2024**
+# **Top 100 Batsmen Analysis - 2023**
 
 This report presents an analysis of the **Top 100 Batsmen in Test Cricket**, focusing on key performance metrics such as batting averages, strike rates, centuries, and overall consistency. The dataset includes information on players from top cricketing nations such as **Australia**, **Pakistan**, **New Zealand**, and others.
 
@@ -88,7 +88,7 @@ The purpose of this analysis is to evaluate the performance of the top 100 batsm
 
 ---
 
-# **Top 100 Batsmen in Test Cricket - 2024**
+# **Top 100 Batsmen in Test Cricket - 2023**
 
 This document provides an overview and detailed analysis of the **Top 100 Batsmen in Test Cricket**, focusing on key performance metrics such as runs scored, batting average, strike rate, and consistency indicators. The dataset covers players from various international cricket teams, highlighting individual performance and contributions to the sport.
 
@@ -203,6 +203,7 @@ This section provides a comprehensive overview of various cricket analytics dash
 
 ## 1. Overview  
 This dashboard provides a high-level summary of overall performance metrics, including total runs, wickets, and team standings.  
+
 ![Overview](Resources/Overview.png)
 
 ---
@@ -257,6 +258,4 @@ A focused breakdown of runs scored in various conditions, including home vs. awa
 
 The **Top 100 Batsmen Dataset** provides valuable insights into how different performance metrics such as batting average, strike rate, and century conversion rate impact a player’s ranking. Continuous analysis of such data can help selectors, coaches, and analysts make informed decisions to optimize team performance and identify future cricketing stars.
 
-
-## **7. Conclusion**
-The 2024 analysis of the top 100 batsmen reveals that consistency, conversion rates, and boundary-hitting ability are key indicators of success. With players like **Steven Smith** and **Marnus Labuschagne** setting high benchmarks, upcoming batsmen can leverage these insights to enhance their performance.  
+The 2023 analysis of the top 100 batsmen reveals that consistency, conversion rates, and boundary-hitting ability are key indicators of success. With players like **Steven Smith** and **Marnus Labuschagne** setting high benchmarks, upcoming batsmen can leverage these insights to enhance their performance.  
